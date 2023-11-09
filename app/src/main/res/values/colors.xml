@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="arkaplan">#131418</color>
+    <color name="islevliTuslar">#696969</color>
+    <color name="esittir">#FF6347</color>
+    <color name="tuslar">#ab4b4b</color>
+
+</resources>
